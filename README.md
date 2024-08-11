@@ -1,4 +1,4 @@
-## Hi there 👋
+We have uploaded our codes as supplementary materials for reviewing, and will open the codes public after accepted.
 
 <!--
 **IntMatch/IntMatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
